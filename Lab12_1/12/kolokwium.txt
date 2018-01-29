@@ -1,0 +1,6 @@
+Albert Einstein 1.5 -5 0.75
+Fryderyk Chopin 20.5 20 5.25
+Maria Skladowska-Curie 50 50 50
+Krzysztof Azer 3 -1 9
+Adam Szmiere 9 -9 3
+blablba Test 12 0 9

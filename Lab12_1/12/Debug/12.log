@@ -1,0 +1,5 @@
+﻿  12.cpp
+d:\program o wanie\studia\zad12\12\12\12.cpp(22): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\program o wanie\studia\zad12\12\12\12.cpp(39): warning C4101: 'temp': unreferenced local variable
+  12.vcxproj -> D:\program o wanie\studia\zad12\12\Debug\12.exe
+  12.vcxproj -> D:\program o wanie\studia\zad12\12\Debug\12.pdb (Full PDB)
